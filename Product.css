@@ -1,0 +1,472 @@
+ .u-section-1 {
+  min-height: 850px;
+}
+
+.u-section-1 .u-group-1 {
+  margin-top: -8px;
+  margin-bottom: 0;
+  min-height: 582px;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Playfair Display SC";
+  font-size: 3rem;
+  margin: 86px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Playfair Display SC";
+  margin: 38px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 832px;
+  height: 400px;
+  margin: -245px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 796px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 346px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 710px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 260px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 614px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 164px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-2 .u-group-1 {
+  width: 480px;
+  min-height: 498px;
+  height: auto;
+  margin: 172px auto 0 0;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 13px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 345px;
+  height: 310px;
+  margin: -80px auto 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 74px auto 0;
+}
+
+.u-section-2 .u-group-2 {
+  width: 480px;
+  min-height: 500px;
+  height: auto;
+  margin: -500px 0 60px auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 13px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 345px;
+  height: 410px;
+  margin: -146px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 36px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 320px;
+    height: 288px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 320px;
+    height: 380px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 770px;
+}
+
+.u-section-3 .u-group-1 {
+  width: 480px;
+  min-height: 509px;
+  height: auto;
+  margin: 153px auto 0 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0 13px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 234px;
+  height: 442px;
+  margin: -144px auto 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Playfair Display SC";
+  margin: 32px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 31px auto 0;
+}
+
+.u-section-3 .u-group-2 {
+  width: 480px;
+  min-height: 500px;
+  height: auto;
+  margin: -500px 0 60px auto;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 0 13px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 345px;
+  height: 413px;
+  margin: -146px auto 0;
+}
+
+.u-section-3 .u-text-3 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-3 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 36px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-3 .u-group-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 320px;
+    height: 383px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1498px;
+}
+
+.u-section-4 .u-group-1 {
+  width: 480px;
+  min-height: 500px;
+  height: auto;
+  margin: 156px auto 0 0;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0 13px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 345px;
+  height: 413px;
+  margin: -146px auto 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 36px auto 0;
+}
+
+.u-section-4 .u-group-2 {
+  width: 480px;
+  min-height: 500px;
+  height: auto;
+  margin: -500px 0 0 auto;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 0 13px;
+}
+
+.u-section-4 .u-image-2 {
+  width: 437px;
+  height: 413px;
+  margin: -146px auto 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 36px auto 0;
+}
+
+.u-section-4 .u-group-3 {
+  width: 480px;
+  min-height: 500px;
+  height: auto;
+  margin: 267px auto 60px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 0 13px;
+}
+
+.u-section-4 .u-image-3 {
+  width: 437px;
+  height: 413px;
+  margin: -146px auto 0;
+}
+
+.u-section-4 .u-text-5 {
+  font-family: "Playfair Display SC";
+  margin: 55px auto 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-family: "Playfair Display SC";
+  margin: 10px auto 0;
+}
+
+.u-section-4 .u-btn-3 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 36px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-4 .u-image-2 {
+    height: 414px;
+  }
+
+  .u-section-4 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-4 .u-image-3 {
+    height: 414px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 320px;
+    height: 383px;
+  }
+
+  .u-section-4 .u-group-2 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 320px;
+    height: 303px;
+  }
+
+  .u-section-4 .u-group-3 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-image-3 {
+    width: 320px;
+    height: 303px;
+  }
+}
